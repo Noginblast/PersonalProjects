@@ -1,2 +1,2 @@
 # PersonalProjects
-This is where all of my projects created through curriculum are showcased.
+All Directories are comprised of applications built by myself using Object-Oriented Programming.
